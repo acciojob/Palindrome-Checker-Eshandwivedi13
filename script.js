@@ -8,6 +8,6 @@ function palindrome(str){
 		i++;
 		j--;
 	}
-	return false;
+	return true;
 }
 module.exports = palindrome
